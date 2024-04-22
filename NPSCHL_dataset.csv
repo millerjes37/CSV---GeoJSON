@@ -1,0 +1,385 @@
+﻿IDOE_SCHOOL_ID,SCHOOL_NAME,PRINCIPAL_TITLE,PRINCIPAL_FIRST_NAME,PRINCIPAL_LAST_NAME,PRINCIPAL_EMAIL,ADDRESS,CITY,STATE,ZIP,COUNTY_NAME,PHONE,FAX,LOW_GRADE,HIGH_GRADE,SCHOOL_HOMEPAGE,CHOICE_FLAG
+7034,Old National Trail Special Services,,Diana,Meo,dmeo@oldnationaltrail.com,"1 N Calbert Way, Suite B",Greencastle,IN,46135,Putnam,(765) 653-2781,(765) 653-6110,09,12,http://www.oldnationaltrail.com/,FALSE
+7215,Ripley-Ohio-Dearborn Special Ed Coop,,Alex,Brewer,abrewer@rodspecialed.org,925 N Meridian St Suite 100,Sunman,IN,47041,Ripley,(812) 623-2212,(812) 623-2315,PK,12,http://www.unorth.k12.in.us/,FALSE
+A004,Hagia Sophia Classical Academy,,Zachary,Waltz,headmaster@hagiasophiaclassical.com,3237 West 16th Street,Indianapolis,IN,46222,Marion,(317) 341-0552,(000) 000-0000,KG,12,http://www.hagiasophiaclassical.com/,TRUE
+A035,Saint Joseph School,,Brian,Baker,bbaker@diofwsb.ort,127 N 4th St,Decatur,IN,46733-1600,Adams,(260) 724-2765,(260) 724-4953,PK,08,http://www.stjosephdecatur.org,TRUE
+A040,St Peter Immanuel Lutheran School,,Gregory,Becker,principal@spilutheran.org,3845 E 1100 N,Decatur,IN,46733,Adams,(260) 623-6115,(260) 623-3865,PK,08,http://www.spilutheran.org,TRUE
+A042,River Montessori High School,,Eileen,Mariani,Eileen@RiverMontessoriHS.org,333 W Colfax Ave,South Bend,IN,46601,St Joseph,(574) 400-5663,,09,12, ,TRUE
+A045,Wyneken Memorial Lutheran School,,Andrew,Gavrun,principal@wyneken.org,11565 N US Hwy 27,Decatur,IN,46733-9726,Adams,(260) 639-6177,(260) 639-3050,PK,08,http://www.wyneken.org/,FALSE
+A083,Growing Lives Academy,,,,,3320 Fairfield Ave,Fort Wayne,IN,46807,Allen,,,05,12, ,FALSE
+A102,Maple Creek Adventist Academy,,Lorena,Mejia Torres,lmejia@indysda.org,2809 N Talley Rd,Columbus,IN,47203,Bartholomew,,,KG,08, ,TRUE
+A104,Saint Elizabeth Ann Seton Catholic Sch,,Lois,Widner,lwidner@diofwsb.org,10650 Aboite Center Rd,Ft Wayne,IN,46804,Allen,(260) 432-4001,(260) 432-6899,PK,08,http://www.seascsfw.org,TRUE
+A106,Our Lady School,,Beatrice,Royal,broyal@diofwsb.org,7215 Saint Joe Road,Fort Wayne,IN,46835,Allen,(260) 485-5289,(260) 485-4463,PK,08,http://ourladyfortwayne.org,TRUE
+A115,International Soccer Academy of America,,Krista,Griffey,kristagriffey@isaa.us,205 West Edison Road,Mishawaka,IN,46545,St Joseph,,,09,12, ,TRUE
+A119,Dana Christian School Corporation,,Dillon,Kingery,dakingery@danachristianschool.org,129 North Maple Street,Dana,IN,47847,Vermillion,(765) 665-5050,(000) 000-0000,KG,10,http://danachristianschool.org/,TRUE
+A120,Bishop Dwenger High School,,Jason,Schiffli,jschiffli@diofwsb.org,1300 E Washington Center Rd,Fort Wayne,IN,46825-4556,Allen,(260) 496-4700,(260) 496-4702,09,12,http://www.bishopdwenger.com,TRUE
+A121,Evansville Adventist Academy,,Armando,Camacho,acamacho@indysda.org,2231 Burdette Ave,Evansville,IN,47714,Vanderburgh,(317) 908-0276,(000) 000-0000,KG,12,,TRUE
+A122,Illiana Christian High School,,Peter,Boonstra,pboonstra@illianachristian.org,10920 Calumet Ave,Dyer,IN,46311,Lake,(219) 558-7066,(219) 558-7032,09,12,,TRUE
+A125,Bishop Luers High School,,Scott,Kreiger,skreiger@diofwsb.org,333 E Paulding Rd,Fort Wayne,IN,46816-3599,Allen,(260) 456-1261,(260) 456-1262,09,12,http://www.bishopluers.org,TRUE
+A126,Edinburgh Christian School,,Kenny,Roll,kroll@mbttcm.org,517 S. Main St.,Edinburgh,IN,46124,Johnson,,,KG,12, ,TRUE
+A127,The CTM Academy,,DeAndre,McDade,deandre@thectmacademy.org,9135 N. Meridian St.,Indianapolis,IN,46260,Marion,(317) 750-5189,,07,12,https://www.ctmindy.com,TRUE
+A130,Most Precious Blood School,Mr,Stanley,Liponoga,sliponoga@preciousblood.org,1529 Barthold St,Fort Wayne,IN,46808-2733,Allen,(260) 424-4832,(260) 426-5904,PK,08,http://www.preciousblood.org/,TRUE
+A135,Queen Of Angels School,,Dennis,Wiegmann,dwiegmann@diofwsb.org,1600 W State Blvd,Fort Wayne,IN,46808-1996,Allen,(260) 483-8214,(260) 482-9412,PK,08,http://www.queenofangelsfw.org/,TRUE
+A138,Hillsboro Christian Academy,,Valerie,Vanaman,vvanaman@hillsborochristian.academy,453 IN-341,Hillsboro,IN, ,Fountain,(765) 366-7128,,KG,08, ,TRUE
+A142,Emmanuel Christian School of Fort Wayne,,,,,12222 US Hwy 24 W,Fort Wayne,IN,46814,Allen,(260) 672-3377,,KG,05,https://www.ecsfw.org,TRUE
+A145,Saint Charles Borromeo School,Mr,Robert,Sordelet,schooladministration@stcharlesschoolfw.org,4910 Trier Rd,Fort Wayne,IN,46815,Allen,(260) 484-3392,(260) 482-2006,PK,08,http://www.stcharlesschoolfw.org/,TRUE
+A148,INspire Academy,,Peter,Cousins,edu-supt@indysda.org,15205 Westfield Blvd,Carmel,IN,46032,Hamilton,(317) 606-5881,,01,08, ,TRUE
+A149,Apogee School For The Gifted ,,David,Bonner,dbonner@apogeeschool.org,4550 Central Ave,Indianapolis,IN,46205,Marion,(317) 804-4800,(000) 000-0000,KG,12,https://www.apogeeschool.com,TRUE
+A150,Saint John The Baptist School,,Margaret,Javins,mjavins@diofwsb.org,4500 Fairfield Ave,Fort Wayne,IN,46807-2719,Allen,(260) 456-3321,(260) 745-8115,PK,08,http://www.stjohnsfw.org/,TRUE
+A152,Stepping Stones Education Academy,,,,,1209 East 46th St.,Indianapolis,IN,46205,Marion,(317) 918-2689,,KG,02, ,TRUE
+A155,Saint Joseph Catholic School,Ms,Cristy,Jordan,cjordan@saintjosephfw.org,2211 Brooklyn,Fort Wayne,IN,46802-6709,Allen,(260) 432-4000,(260) 432-8642,PK,08,https://saintjosephcatholicfw.org,TRUE
+A157,Academy of Excellence,,Randall,Melchert,randall.melchert@mkeacademy.com,8080 Utah St.,Hobart,IN,46410,Lake,(888) 947-2692,,KG,12, ,TRUE
+A160,Saint Jude Elementary School,,Michael ,Obergfell,mobergfell@diofwsb.org,2110 Pemberton Dr,Fort Wayne,IN,46805-4628,Allen,(260) 484-4611,(260) 969-1607,KG,08,http://www.stjudefw.org/school/,TRUE
+A163,Premier Soccer Academy,,John,Reynolds,john.reynolds@premiersocceracademy.org,9741 East 153th St.,Noblesville,IN,46060,Hamilton,(317) 667-0316,,04,08, ,TRUE
+A170,Blackhawk Christian Mdl/High Sch,,Mark,Harmon,markharmon@blackhawkchristian.org,7400 E State Blvd,Fort Wayne,IN,46815-6502,Allen,(260) 493-7470,(260) 493-7258,07,12,http://www.blackhawkchristian.org,TRUE
+A172,Blackhawk Christian Elementary Sch,,Kimberly,Brown,kbrown@blackhawkchristian.org,7400 E State Blvd,Fort Wayne,IN,46815-6502,Allen,(260) 493-7400,(260) 493-5107,KG,06,http://www.blackhawkchristian.org,TRUE
+A175,Saint Therese School,,Rick,Ruhl,rruhl@diofwsb.org,2222 Lower Huntington Rd,Fort Wayne,IN,46819-1298,Allen,(260) 747-2343,(260) 747-4767,PK,08,https://www.stthereseschoolfw.org/,TRUE
+A180,Saint Vincent DePaul School,,Zachary,Coyle,zcoyle@diofwsb.org,1720 E Wallen Rd,Fort Wayne,IN,46825,Allen,(260) 489-3537,(260) 489-5318,KG,08,http://www.saintv.org/school,TRUE
+A195,Concordia Lutheran High School,,Patrick,Frerking,pfrerking@clhscadets.com,1601 St Joe River Dr,Fort Wayne,IN,46805-1488,Allen,(260) 483-1102,(260) 471-0180,09,12,http://www.clhscadets.com,TRUE
+A200,Suburban Bethlehem Lutheran School,,Amy,Greener,agreener@sblschool.com,6318 W California Rd,Fort Wayne,IN,46818-9737,Allen,(260) 483-9371,(260) 471-2159,KG,08,http://www.suburbanbethlehem.org,TRUE
+A205,Concordia Lutheran School,,Michael,Rosin,mrosin@clscubs.org,4245 Lake Ave,Fort Wayne,IN,46815-7219,Allen,(260) 426-9922,(260) 422-6980,PK,08,http://www.clscubs.org,TRUE
+A208,Marian University Preparatory School,,Elisha,Schlabach,eschlabach@muprep.com,2916 West 30th Street,Indianapolis,IN,46222,Marion,,,KG,10, ,TRUE
+A215,Emmanuel St Michael Lutheran Sch,,Benjamin,Stellwagen,bstellwagen@esmeagles.com,1123 Union St,Fort Wayne,IN,46802-4049,Allen,(260) 422-6712,(260) 422-3553,PK,08,http://www.esmeagles.com,TRUE
+A220,Emmaus Lutheran School,,Keith,Martin,kmartin@emmauslutheranfw.org,8626 Covington Rd,Fort Wayne,IN,46804,Allen,(260) 459-7722,(260) 459-7766,PK,08,http://www.emmauslutheranfw.org,TRUE
+A225,Holy Cross Lutheran School,,Emily,Johnson,ejohnson@holycrossfw.org,3425 Crescent Ave,Fort Wayne,IN,46805-1597,Allen,(260) 483-3173,(260) 484-9115,PK,08,http://www.holycrossfw.org ,TRUE
+A235,Lutheran South Unity School,,Amber,Bahr,abahr@lsusfw.org,5401 S Calhoun,Fort Wayne,IN,46807-3398,Allen,(260) 744-0459,(260) 745-9265,KG,08,http://www.lsusfw.org,TRUE
+A236,Cornerstone College Prep Sch,,Stephanie,Underwood,stephanie.underwood@cornerstonechristianprep.org,3501 Harris Rd Door #5,Fort Wayne,IN,46808,Allen,(260) 471-9639,(260) 483-8647,PK,12,http://www.cornerstonecollegeprep.org,TRUE
+A245,Saint Paul Lutheran School,,Andrew,Whirrett,awhirrett@stpaulsfw.org,1125 Barr St,Fort Wayne,IN,46802-3107,Allen,(260) 424-0049,(260) 969-2052,KG,08,http://www.stpaulsfw.org/school,TRUE
+A248,Ascension Lutheran School,,Laura,Behnfeldt,principal@alcsfw.org,8811 St Joe Rd,Fort Wayne,IN,46835,Allen,(260) 486-2226,(260) 486-5793,PK,08,http://www.alcsfw.org/,TRUE
+A249,Central Christian School,,Cindy,Grile,cgrile@ccsfw.org,5801 Schwartz Rd,Fort Wayne,IN,46835,Allen,(260) 493-0193,(000) 000-0000,PK,08,http://www.centralchristianfortwayne.org,TRUE
+A250,Saint Peter's Lutheran School,,Christopher,Brune,cbrune@stpetersfw.org,7810 Maysville Rd,Fort Wayne,IN,46815-6682,Allen,(260) 749-5811,(260) 749-9967,KG,08,http://www.stpetersfw.org,TRUE
+A260,Aboite Christian School,,Bethany,Halladay,blhalladay@gmail.com,6222 Bass Rd,Fort Wayne,IN,46818,Allen,(260) 672-8544,(260) 672-8544,PK,08,http://www.aboitechristianschool.org,TRUE
+A270,Saint Aloysius Catholic School,,Tina,Voors,tvoors@diofwsb.org,14607 Bluffton Rd,Yoder,IN,46798-9801,Allen,(260) 622-7151,(260) 622-7961,PK,08,http://www.saintaloysiusyoder.info/School,TRUE
+A275,Crossroad Child & Family Services,,Jasmine,Latham,jalatham@crossroad-fwch.org,1825 Beacon Street,Fort Wayne,IN,46805-5457,Allen,(260) 484-4153,(260) 484-5994,KG,12,http://www.crossroad-fwch.org/,TRUE
+A293,Darul Uloom Al Ansaar,,Faisal,Ansari,muftifaisal@darulansaar.org,6332 South Anthony Blvd.,Fort Wayne,IN,46816,Allen,(716) 604-7555,,KG,12, ,TRUE
+A303,FaithPrep Indiana,,Sheila,Boehning,sboehning@faithprep.com,3170 Indiana Ave,Columbus,IN,47201,Bartholomew,(812) 372-3780,,KG,12,http://www.whycolumbuschristian.com/,TRUE
+A304,GEO Focus Academy,,Vicky,Creasy,vcreasy@geofocusindiana.org,3145 N. Meridian St.,Indianapolis,IN,46208,Marion,(317) 536-1027,(463) 218-9404,KG,12, ,TRUE
+A306,Harriet Tubman School of Excellence,,Jeremiah,Lockett,jlockett@htseindy.org,2804 E 55th Pl. Suite B,Indianapolis,IN,46220,Marion,(317) 426-1538,,05,08,http://htseindy.org,TRUE
+A308,Islamic Academy of Kendallville,,Abdulmalek,Jawba,info@islamicacademyofkendallville.org,200 W Ohio St,Kendallville,IN,46755,Noble,(260) 318-2432,,KG,06,https://www.islamicacademyofkendallville.com,TRUE
+A311,Saint Thomas More Academy,,Kevin,Powers,kpowers@stmasb.org,424 S. Michigan Street #1484,South Bend,IN,46601,St Joseph,,,KG,12, ,TRUE
+A317,Liberty Academy of Columbus,,,,,101 National Road,Columbus,IN,47203,Bartholomew,(812) 603-9069,,KG,07, ,TRUE
+A324,Montessori Science Academy,,Brian,Wheatley,brian.wheatley33@gmail.com,4147 S 600W,New Palestine,IN,46163,Hancock,(317) 909-3567,,PK,08, ,TRUE
+A340,Saint Rose of Lima School,,Travis,Heckber,theckber@diofwsb.org,401 Monroe,Monroeville,IN,46773,Allen,(260) 623-3447,(260) 623-3447,KG,08,http://www.strosemonroeville.org/73,TRUE
+A350,St Joseph Hessen Cassel Cath Sch,,Jeanine,Skordos,jskordos@diofwsb.org,11521 Old US 27 S,Fort Wayne,IN,46816-3428,Allen,(260) 639-3580,(260) 639-3675,PK,08,http://www.stjoehc.org,TRUE
+A355,Saint John The Baptist Catholic ,,Tina,Voors,TVoors@diofwsb.org,204 S Rufus St,New Haven,IN,46774-1226,Allen,(260) 749-9903,(260) 749-6047,PK,08,https://www.sjnewhaven.org/,TRUE
+A360,Saint Louis Besancon Catholic Sch,Mrs,Vanessa,Diller,vanessadiller@academy.stlouisbesancon.org,15529 E Lincoln Hwy,New Haven,IN,46774-9679,Allen,(260) 749-5815,(260) 748-2072,PK,08,http://academy.stlouisbesancon.org/,TRUE
+A365,St John-Emmanuel Lutheran School,,Suzanne,Dunkin,principal@stjohn-emmanuel.com,12912 Franke Rd,Monroeville,IN,46773-9559,Allen,(260) 639-0123,(260) 639-7383,PK,08,http://www.stjohn-emmanuel.com,TRUE
+A370,Central Lutheran School,,David,Van Spankeren,dvanspankeren@cluth.org,900 Green Street,New Haven,IN,46774,Allen,(260) 493-2502,(260) 493-2503,PK,08,http://www.cluth.org/,TRUE
+A375,Woodburn Lutheran School,,David,Vanspankeren,david.vanspankeren@wlsedu.org,4502 SR 101 N,Woodburn,IN,46797-0159,Allen,(260) 632-5493,(260) 632-0005,PK,08,http://www.woodburnlutheranschool.org,TRUE
+A423,St Paul Lutheran Preschool,,Jennifer,Probst,director@stpaulcolumbus.org,6045 E State St,Columbus,IN,47201,Bartholomew,(812) 376-6504,(812) 376-6539,PK,KG,,TRUE
+A425,St Bartholomew School,,Alex,Engelbert,aengelbert@stbirish.net,1306 27th St,Columbus,IN,47201-3150,Bartholomew,(812) 379-9353,(812) 376-0377,KG,08,http://www.stbirish.net,TRUE
+A430,White Creek Lutheran School,,Whitney,Vandercar,wvandercar@whitecreek.org,16270 S 300 W,Columbus,IN,47201-9357,Bartholomew,(812) 342-6832,(812) 342-6832,KG,08,http://www.whitecreek.org,TRUE
+A435,Saint Peters Lutheran School,,Paul,Meredith,pmeredith@stpeters-columbus.org,719 5th St,Columbus,IN,47201-6306,Bartholomew,(812) 372-5266,(812) 372-7556,KG,08,http://www.stpeterscolumbus.org/#/school,TRUE
+A450,Columbus Christian School Inc,,Angie,Donnell,adonnell@columbus-christian.org,3170 Indiana Ave,Columbus,IN,47201-7261,Bartholomew,(812) 372-3780,(812) 372-3878,PK,12,http://www.columbus-christian.org/,TRUE
+A470,Sacred Heart School,,Kristina,Gross,kgross@parish.dol-in.org,607 N Washington Ave,Fowler,IN,47944-1182,Benton,(765) 884-0710,(765) 884-0710,KG,06,http://sacredheartschoolfowler.org,TRUE
+A480,James E Davis School,,James,Stuart Jr,jamess@iumch.org,515 W Camp St,Lebanon,IN,46052,Boone,(765) 482-5900,(765) 483-2136,06,12,http://childrenshome.net/,FALSE
+A550,St John Paul II Catholic School,,Karen,Haas,khaas@stjohnpaulschool.org,105 St Paul St,Sellersburg,IN,47172-1241,Clark,(812) 246-3266,(812) 246-7632,KG,08,http://www.stjohnpaulschool.org,TRUE
+A560,Saint Anthony of Padua ,,Stephany,Tucker,s.tucker@stanthonyschool.us,320 N Sherwood Ave,Clarksville,IN,47129-2724,Clark,(812) 282-2144,(812) 282-2169,PK,08,http://www.stap.us/,TRUE
+A570,Sacred Heart School,,Jeremy,Stewart,jstewart@sacredheartschool.us,1842 E 8th St,Jeffersonville,IN,47130-4897,Clark,(812) 283-3123,(812) 284-6678,PK,08,http://www.sacredheartschool.us,TRUE
+A575,Our Lady Of Providence High School,,Steven,Beyl,sbeyl@providencehigh.net,707 Providence Way,Clarksville,IN,47129-1534,Clark,(812) 945-2538,(812) 981-2538,09,12,https://www.providencehigh.net/,TRUE
+A660,Washington Catholic Mid/High Sch,,Karie,Craney,kcraney@evdio.org,201 NE Second St,Washington,IN,47501-2799,Daviess,(812) 254-2050,(812) 254-8746,05,12,http://wccardinals.org/,TRUE
+A665,Washington Catholic Elementary Sch,,Kelsi,Edwards,kedwards@evdio.org,310 NE Second St,Washington,IN,47501-2718,Daviess,(812) 254-3845,(812) 254-8741,PK,04,http://wccardinals.org/,TRUE
+A680,Saint Nicholas School,,Eric,Feller,principal@stnicholas-sunman.org,6459 E St Nicholas,Sunman,IN,47041-9284,Ripley,(812) 623-2348,(812) 623-0066,PK,08,http://school.stnicholas-sunman.org/,TRUE
+A695,Saint John Ev Lutheran School,,Jennifer,Willoughby,jennifer.willoughby@sjlsaurora.com,222 Mechanic St,Aurora,IN,47001-1322,Dearborn,(812) 926-2656,(812) 926-7603,KG,08,http://www.stjohnlcms.com/,TRUE
+A700,Saint Lawrence School,,Robert,Detzel,rdetzel@sls-apps.org,524 Walnut St,Lawrenceburg,IN,47025-1861,Dearborn,(812) 537-3690,(812) 537-9685,PK,08,http://www.stlschool.com,TRUE
+A724,Good Shepherd Christian Academy,,Amy,Kuhn,a.kuhn@gscacademy.org,209 W Washington St,Greensburg,IN,47240,Decatur,(812) 663-2410,(812) 663-6599,PK,06,http://www.gscacademy.org/,TRUE
+A730,Saint Mary's School,,Nancy,Buening,nbuening@stmarysgreensburg.com,1331 Hunter Robbins Way,Greensburg,IN,47240-2082,Decatur,(812) 663-2804,(812) 663-6088,PK,08,http://school.stmarysgreensburg.com/,TRUE
+A735,Saint Joseph School,,Kathleen,Mulligan,kmulligan@diofwsb.org,301 W Houston St,Garrett,IN,46738-1495,Dekalb,(260) 357-5137,(260) 357-5138,PK,05,http://www.stjosephgarrett.org/,TRUE
+A740,Lakewood Park Christian School,,Amy,Yoder,ayoder@lakewoodpark.org,5555 CR 29 S,Auburn,IN,46706-0507,Dekalb,(260) 925-1393,(260) 925-5010,PK,12,https://www.lakewoodparkchristianschool.com/,TRUE
+A746,Heritage Hall Christian School,,Michael,Crull,mcrull@hhcsmuncie.org,6401 W River Rd,Muncie,IN,47304-4653,Delaware,(765) 289-6371,(765) 288-9584,PK,12,http://www.hhcsmuncie.org/,TRUE
+A795,St. Michael Catholic School,,Erin,Kinsella,enkinsella@stmichaelmuncie.org,2301 W Gilbert St,Muncie,IN,47303-3406,Delaware,(765) 288-5878,(765) 284-3685,PK,08,http://www.stmarymuncie.org/school,TRUE
+A871,Holy Trinity Catholic School,,Jonathan,Temple,jtemple@evdio.org,990 Church Ave,Jasper,IN,47546,Dubois,(812) 482-4485,(812) 481-9909,PK,08,http://www.holytrinitysaints.com/,TRUE
+A875,Clinton Christian School,,Michele,Vigil,mvigil@ccsgoshen.org,61763 CR 35,Goshen,IN,46528-9661,Elkhart,(574) 642-3940,(574) 642-3674,PK,12,http://ccsgoshen.org,TRUE
+A944,Bashor Children's Home,,Marcia,Brothers,mbrothers@bashor.org,62226 County Road 15,Goshen,IN,46527,Elkhart,(574) 875-5117,(574) 875-5284,KG,12,http://www.bashor.org/,FALSE
+A975,St Thomas The Apostle School,,Christopher,Adamo,cadamo@stselkhart.com,1331 N Main St,Elkhart,IN,46514-3326,Elkhart,(574) 264-4855,(574) 262-8477,KG,08,http://www.stselkhart.com/,TRUE
+A980,St Vincent de Paul School,,Tara,Lundy,tlundy@diofwsb.org,1114 S Main St,Elkhart,IN,46516-3919,Elkhart,(574) 293-8451,(574) 295-9702,PK,08,http://www.svcelkhart.org,TRUE
+A985,Trinity Lutheran School,,Paul,Rosin,paulrosin@trinityl.org,30888 CR 6,Elkhart,IN,46514,Elkhart,(574) 674-8800,(574) 674-6410,PK,08,http://www.trinityl.org/,TRUE
+A990,Elkhart Christian Academy,,Christine,Baldridge,csb@elkhartchristian.org,25943 CR 22 E,Elkhart,IN,46517-2127,Elkhart,(574) 293-1609,(574) 293-3238,PK,12,http://www.elkhartchristian.org,TRUE
+B009,The Crossing Educational Center,,Ryan,Hill,RHill@crossingcec.com,2930 S Nappanee St,Elkhart,IN,46517-1283,Elkhart,(574) 226-0671,(574) 333-3590,06,12,http://www.crossingeducation.com,TRUE
+B015,Bethany Christian School,,Jerod,Willems,jhwillems@bethanycs.net,2904 S Main St,Goshen,IN,46526-5421,Elkhart,(574) 534-2567,(574) 533-0150,01,12,http://www.bethanycs.net,TRUE
+B020,St John Evangelist School,,Virginia,Munoz,vmunoz@diofwsb.org,117 W Monroe St,Goshen,IN,46526-3956,Elkhart,(574) 533-9480,(574) 533-1814,PK,06,http://www.stjohncatholic.com/school,TRUE
+B035,Saint Gabriel Catholic School,,Michelle,Struewing,mastruewing@stgabriel.k12.in.us,224 W 9th St,Connersville,IN,47331-2074,Fayette,(765) 825-7951,(765) 827-4347,PK,06,https://stgabriel.k12.in.us/,TRUE
+B045,Christian Academy of Indiana,,Krystal,Morrow,kmorrow@caschools.us,1000 Academy Dr,New Albany,IN,47150,Floyd,(812) 944-6200,(812) 944-6903,KG,12,http://caschools.us/indiana-campus,TRUE
+B050,Holy Family School,,Amy,Huber,ahuber@holyfamilyeagles.com,217 W Daisy Ln,New Albany,IN,47150-4599,Floyd,(812) 944-6090,(812) 944-7299,PK,08,http://www.holyfamilyeagles.org,TRUE
+B060,Our Lady Of Perpetual Help School,,Kenneth,McGuire,pmcguire@olphna.org,1752 Scheller Ln,New Albany,IN,47150-2423,Floyd,(812) 944-7676,(812) 948-2944,PK,08,http://www.olphna.org,TRUE
+B067,St Mary of-the-Knobs Catholic Sch,,Tracy,Jansen,tjansen@yoursmk.org,3033 Martin Rd,Floyds Knobs,IN,47119-9107,Floyd,(812) 923-1630,(812) 923-0310,PK,08,http://www.smkcatholicschool.com/,TRUE
+B085,Covington Christian School,,Justin,Wilderman,jwilderman@covingtonchristianschool.com,518 6th St,Covington,IN,47932-0267,Fountain,(765) 793-2365,(765) 793-3911,PK,KG,http://www.covingtonchristianschool.com/,TRUE
+B095,Saint Michael School,,Chad,Moeller,cmoeller@smsbrookville.org,275 High St,Brookville,IN,47012-0310,Franklin,(765) 647-4961,(765) 647-4961,PK,08,http://sms.smsbrookville.org/,TRUE
+B105,St Joseph School,,Lynde,Anquillare,lanquillare@evdio.org,427 S Stormont St,Princeton,IN,47670-2523,Gibson,(812) 385-2228,(812) 385-2590,PK,05,http://www.stjosephprinceton.com,TRUE
+B115,Holy Cross School,,Nathan,Winstead,nwinstead@evdio.org,202 S Church St,Fort Branch,IN,47648-1498,Gibson,(812) 753-3280,(812) 753-3034,PK,05,http://www.holycrossparish.info/holy-cross-school.html,TRUE
+B118,Kinwell Academy Inc,,Roger,Younce,ryounce@kinwellacademy.org, 815 N Western Avenue,Marion,IN,46952,Grant,(765) 661-4922,(000) 000-0000,09,12,,FALSE
+B120,Saint James School,,Eric,Chamberlain,echamberlain@evdio.org,12394 S 40 W,Haubstadt,IN,47639-9803,Gibson,(812) 867-2661,(812) 867-2696,PK,08,http://www.stjameshaubstadt.com/,TRUE
+B125,Saints Peter & Paul School,,Megan,Howington,mhowington@evdio.org,210 N Vine St,Haubstadt,IN,47639-8123,Gibson,(812) 768-6775,(812) 768-5039,PK,05,http://www.stsppschool.com/,TRUE
+B129,Life Christian STEAM Academy,,Crystal,Moore,csmoore@lifesteamacademy.com,430 E Ridge Rd,Gary ,IN,46408,Lake,(000) 000-0000,(000) 000-0000,PK,05,,TRUE
+B131,Genai Excellence Academy,,Geraldine,Coleman,drbrown@genaiacademy.org,2201 Toledo Road,Elkhart,IN,46516,Elkhart,(574) 367-8123,(574) 389-0294,KG,01,,TRUE
+B136,The King's Academy,,Bethany,Guerin,bethany.guerin@kingsacademy.org,1201 S Water,Jonesboro,IN,46938,Grant,(765) 674-1722,(765) 674-7322,KG,12,http://www.kingsacademy.org/,TRUE
+B145,Lakeview Christian School Inc,,Justin,Simos,jsimos@lakeviewchristian.net,5316 S Western Ave,Marion,IN,46953-5744,Grant,(765) 677-4266,(765) 677-4269,KG,08,http://lakeviewchristian.net/,TRUE
+B155,Saint Paul Parish School,,Veronica,Weimer,vweimer@parish.dol-in.org,1009 W Kem Rd,Marion,IN,46952-2048,Grant,(765) 662-2883,(765) 664-5953,PK,08,http://www.stpaulcatholicmarion.com,TRUE
+B157,The Montessori School at WPC,,Addie,Neher,addie@montessoriwpc.com,123 West Hill Street,Wabash,IN,46992,Wabash,,,PK,03, ,TRUE
+B160,Eman Schools,,Shaker,Rashid,SRashid@emanschool.net,11965 Allisonville Rd,Fishers,IN,46038,Hamilton,(317) 845-9466,(317) 845-9470,PK,12,http://emanschool.org/,TRUE
+B161,Fishers Christian Academy,,Mark,Lenington,principal@fisherschristianacademy.org,9587 E 131st St,Fishers,IN,46038,Hamilton,(317) 572-7077,(317) 845-9302,PK,12,http://www.fisherschristianacademy.org/,TRUE
+B167,Paddock View Residential Center,,Douglas,Thieme,dthieme1@paddockview.org,1700 E Bradford,Marion,IN,46952,Grant,(765) 664-7740,(765) 664-7743,02,12,http://www.paddockview.org,FALSE
+B190,Indiana Academy,,Steven,Baughman,principal@iasda.org,24815 SR 19,Cicero,IN,46034,Hamilton,(317) 984-3575,(317) 984-5081,09,12,http://www.iasda.org,TRUE
+B195,Cicero Adventist School,,Kendra,Knudson,principal@cicerosdaschool.com,24089 SR 19,Cicero,IN,46034-9801,Hamilton,(317) 984-3252,(317) 000-0000,KG,08,https://www.cicerosdaschool.com,TRUE
+B205,Union Bible College & Academy,,Nicole,Thomas,nthomas@ubca.org,434 South Union Street,Westfield,IN,46074-0315,Hamilton,(317) 896-9324,(317) 867-0784,KG,12,http://ubca.org/,TRUE
+B215,Our Lady Of Mt Carmel School,,Timothy,Fletcher,FletcherT@OLMC1.org,14596 Oak Ridge,Carmel,IN,46032,Hamilton,(317) 846-1118,(317) 582-2375,KG,08,http://www.olmcschool.org,FALSE
+B216,Saint Maria Goretti School,,Elizabeth,Kissel,e.kissel@smgonline.org,17104 Spring Mill Rd,Westfield,IN,46074-1199,Hamilton,(317) 896-5582,(317) 867-0783,KG,08,http://www.smgonline.org,FALSE
+B227,Saint Louis de Montfort School,,Scott,Stewart,sstewart@sldmfishers.org,11421 Hague Rd,Fishers,IN,46038-1876,Hamilton,(317) 842-1125,(317) 842-1126,PK,08,http://sldmfishers.org/,TRUE
+B233,Transitions Academy,,Mark,Cosand,Mark.cosand@transitions-academy.com,11075 N Pennsylvania Street,Indianapolis,IN,46280,Hamilton,(317) 805-1800,(000) 000-0000,06,12,http://www.orp.com/tai/,FALSE
+B241,University High School of Indiana,,Alicia,Lamagdeleine,alamagdeleine@universityhighschool.org,2825 W 116th St,Carmel,IN,46032,Hamilton,(317) 733-4475,(317) 733-4484,09,12,http://www.universityhighschool.org,TRUE
+B246,Our Lady of Grace School,,Michelle,Boyd,mlboyd@ologn.org,9900 E 191st St,Noblesville,IN,46060-1520,Hamilton,(317) 770-5660,(317) 770-5663,KG,08,http://www.ologs.org,TRUE
+B248,Legacy Christian School,,Melinda,Just,mjust@lcsmail.org,470 Lakeview Dr,Noblesville,IN,46060,Hamilton,(317) 776-4186,(317) 776-4189,PK,12,https://legacychristianschools.org/,TRUE
+B249,Guerin Catholic High School,,James,McNeany Jr,jmcneany@guerincatholic.org,15300 N Gray Rd,Noblesville,IN,46062,Hamilton,(317) 582-0120,(317) 219-0582,09,12,http://www.guerincatholic.org,TRUE
+B251,Indy West Christian School,,Jason,Van Curen,jvancuren@indycs.org,8610 W 10th Street,Indianapolis,IN,46234,Marion,,,KG,05, ,TRUE
+B260,Zion Lutheran School,,Casey,Dodd,cdodd@zionnewpal.org,6513 W 300 S,New Palestine,IN,46163-9748,Hancock,(317) 861-4210,(317) 861-8153,PK,08,https://www.zionnewpal.org/,TRUE
+B265,Saint Michael School,,Ruth,Hittel,rhittel@stmichaelsgrfld.org,515 Jefferson Blvd,Greenfield,IN,46140-1859,Hancock,(317) 462-6380,(317) 462-2571,PK,08,http://www.stmichaelsgrfld.org/school,TRUE
+B275,Saint John Lutheran School,,Brian,Oberdieck,brian.oberdieck@stjohnslanesville.com,1507 St John's Church Rd NE,Lanesville,IN,47136-9718,Harrison,(812) 952-2737,(812) 952-3269,PK,08,http://www.stjohnslanesville.com/,TRUE
+B280,Saint Joseph School,,Brittney,King,brittney.king@catholic-community.org,512 N Mulberry,Corydon,IN,47112,Harrison,(812) 738-4549,(812) 738-2722,PK,08,http://catholic-community.org/st-joseph-school,TRUE
+B285,Saint Malachy School,,Saundra,Kennison,skennison@stmalachy.org,7410 N County Road 1000 E,Brownsburg,IN,46112-1098,Hendricks,(317) 852-2242,(317) 852-3604,PK,08,http://stmalachy.org/school/,TRUE
+B290,Bethesda Christian School,,Rick,Morin,rick.morin@ebethesda.org,7950 N CR 650 E,Brownsburg,IN,46112-9026,Hendricks,(317) 858-2820,(317) 858-2819,PK,12,http://www.bethesdaschools.org,TRUE
+B295,Indianapolis Christian School - Avon Campus,,Jason,Van Curen,jvancuren@indycs.org,8610 W 10th Street,Indianapolis,IN,46234,Marion,(317) 272-2227,(317) 272-3412,PK,08,http://www.kingswayschool.org/,TRUE
+B297,The Oaks Academy - Brookside,,Kelly,Reese-Altman,kaltman@theoaksacademy.org,3092 Brookside Pkwy N Dr,Indianapolis,IN,46218,Marion,(317) 882-4900,(317) 822-4910,KG,05,http://www.theoaksacademy.org,TRUE
+B299,Legacy Learning Center,,Tewfik,Choukri,dean@legacylearningcenter.org,1102 Roosevelt Avenue,Indianapolis,IN,46202,Marion,(317) 423-2866,(317) 423-2869,PK,12,http://www.legacylearningcenter.org,TRUE
+B300,Saint Susanna School,,Janet,Abdoulaye,jabdoulaye@saintsusanna.com,1212 E Main St,Plainfield,IN,46168-1763,Hendricks,(317) 839-3713,(317) 838-7718,PK,08,http://www.saintsusannaschool.com,TRUE
+B302,Universal School of Plainfield,,Amber,Abdullah,islamicschoolofplainfield@gmail.com,2183 Stanley Rd,Plainfield,IN,46168,Hendricks,(317) 203-5769,(317) 000-0000,PK,08,https://www.myusp.org,TRUE
+B367,Redeemer Lutheran School,,Katherine,Tucker,ktucker@redeemerkokomo.org.in,705 Southway Blvd E,Kokomo,IN,46902-4384,Howard,(765) 864-6466,(765) 864-6468,PK,08,http://www.redeemerlutheranschoolkokomo.org/,TRUE
+B395,Sts Joan of Arc & Patrick School,,Nicholas,Kanable,nkanable@stsjp.org,3155 S CR 200 W,Kokomo,IN,46902,Howard,(765) 865-9960,(765) 865-9962,PK,08,http://www.stsjp.org,TRUE
+B418,Huntington Catholic School,,Derek,Boone,dboone@diofwsb.org,960 Warren St,Huntington,IN,46750-2152,Huntington,(260) 356-1926,(260) 359-8419,PK,08,http://huntingtoncatholic.org/,TRUE
+B440,Saint Ambrose School,,Michelle,Neibert-Levine,levine@stambroseseymour.org,301 S Chestnut St,Seymour,IN,47274-2329,Jackson,(812) 522-3522,(812) 522-3545,PK,08,http://stambroseseymour.org,TRUE
+B445,Immanuel Lutheran School,,Todd,Behmlander,tgb@immanuelschool.org,520 S Chestnut St,Seymour,IN,47274-3044,Jackson,(812) 522-1301,(812) 523-2186,KG,08,http://www.immanuelschool.org,TRUE
+B450,Saint John Lutheran School,,Kasee,Lambring,klambring@sjsauerslutheran.org,1058 S 460 E,Seymour,IN,47274-9806,Jackson,(812) 523-3131,(812) 523-3131,PK,08,http://www.sauerslutheranschool.org/,TRUE
+B452,Trinity Lutheran High School,,Clayton,Darlage,cdarlage@trinitycougars.org,7120 N CR 875 E,Seymour,IN,47274,Jackson,(812) 524-8547,(812) 524-8523,09,12,http://www.trinitycougars.org,TRUE
+B455,Sandy Creek Christian Academy ,,Lisa,Richart,admissions@go2scca.com,5707 North Sandy Creek Drive,Seymour,IN,47274,Jackson,(844) 462-7222,(812) 522-5768,KG,12,http://www.go2scca.com,TRUE
+B459,Zion Lutheran School,,Kimberly,Sullivan,ksullivan@zionseymour.org,1501 Gaiser Dr, Seymour,IN,47274,Jackson,(812) 522-5911,(812) 523-7526,PK,02,https://sites.google.com/site/zionseymour/our-school,TRUE
+B465,Lutheran Central School,,Jami,Stuckwisch,jami.stuckwisch@lcsaints.net,415 N Elm St,Brownstown,IN,47220-1309,Jackson,(812) 358-2512,(812) 358-9905,PK,08,http://lcsaints.net/,TRUE
+B469,DeMotte Christian High School,,Jeremy,Boer,jeremyboer@dmcsemail.org,611 15th St SW,DeMotte,IN,46310-9285,Jasper,(219) 987-7651,(219) 987-3724,09,12,http://www.demottechristianschools.org,TRUE
+B470,DeMotte Christian School,,Jeremy,Boer,jeremyboer@dmcsemail.org,1223 Begonia,Demotte,IN,46310-0430,Jasper,(219) 987-3721,(219) 987-3724,PK,08,http://www.dmchr.org/,TRUE
+B475,Saint Augustine School,,Angela,Nagel,nagel@s-augustine.org,328 N McKinley Ave,Rensselaer,IN,47978-2545,Jasper,(219) 866-5480,(219) 866-5663,PK,05,http://www.s-augustine.org,TRUE
+B483,Jay County Christian Academy,,Heather,Maitlen,sixnichols30@yahoo.com,289 S 200 W,Portland,IN,47371,Jay,(260) 726-8873,(260) 726-8895,PK,12,http://jcca.weebly.com/index.html,TRUE
+B493,Christian Academy of Madison,,Anna,Gosman,agosman@camdefenders.com,477 W Hutchison Ln,Madison,IN,47250,Jefferson,(812) 273-5000,(812) 265-0700,PK,12,http://www.camdefenders.com,TRUE
+B505,Shawe Memorial High School,,Curt,Gardner,cgardner@popeace.org,201 W State St,Madison,IN,47250-2898,Jefferson,(812) 273-2150,(812) 273-2013,07,12,http://popeaceschools.org/,TRUE
+B510,Pope John XXIII Elementary School,,Bethany,Fewell,bfewell@popeace.org,221 W State St,Madison,IN,47250-2899,Jefferson,(812) 273-3957,(812) 265-4566,PK,06,http://www.popeaceschools.org,TRUE
+B515,Saint Mary's School,,Meredith,Inman,meredithi@stmarysnv.com,209 Washington St,North Vernon,IN,47265-1138,Jennings,(812) 346-3445,(812) 346-5930,PK,08,http://school.ccjc3.org/,TRUE
+B518,St Rose of Lima School,,Kimberly,Tekippe,ktekippe@stroselions.net,114 Lancelot Dr,Franklin,IN,46131-9070,Johnson,(317) 738-3451,(317) 738-3583,PK,08,http://www.stroselions.net/,TRUE
+B535,Our Lady of the Greenwood School,,Kent,Clady,kclady@ol-g.org,399 S Meridan St,Greenwood,IN,46143-1605,Johnson,(317) 881-1300,(317) 885-5006,PK,08,http://www.ol-g.org/,TRUE
+B540,SS Francis and Clare Catholic Sch,,Betty,Popp,bpopp@ss-fc.org,5901 Olive Branch Rd,Greenwood,IN,46143,Johnson,(317) 859-4673,(317) 859-4678,PK,08,http://www.ss-fc.org,TRUE
+B549,Greenwood Christian School,,Iva,Pendleton,mpendleton@greenwoodchristian.com,2045 Averitt Rd,Greenwood,IN,46143,Johnson,(317) 881-9970,(317) 859-5234,PK,06,,TRUE
+B557,Pierceton Woods Academy,,Bill,Hoppus,bill.hoppus@lifelineyouth.org,27 Pequinot Drive, Pierceton,IN,46562,Kosciusko,(574) 400-2197,(574) 594-9032,04,12,,FALSE
+B560,Rivet Middle & High School,,Janice,Vantlin-Jones,jjones@evdio.org,210 Barnett Street,Vincennes,IN,47591-1158,Knox,(812) 882-6215,(812) 886-1939,06,12,http://rivethighschool.org,TRUE
+B565,Flaget Elementary School,,Samantha,McClure,smcclure@evdio.org,800 Vigo Street,Vincennes,IN,47591-2834,Knox,(812) 882-5460,(812) 882-5596,PK,05,http://flagetces.org,TRUE
+B595,Lakeland Christian Academy,,Brenn,Dahms,bdahms@lcacougars.org,1093 S 250 E,Winona Lake,IN,46590-5703,Kosciusko,(574) 267-7265,(574) 267-5687,PK,12,http://www.lcacougars.com,TRUE
+B605,Sacred Heart School,,Michael,McClain Jr,mmcclain@diofwsb.org,135 N Harrison St,Warsaw,IN,46580-3799,Kosciusko,(574) 267-5874,(574) 267-5136,PK,06,http://www.sacredheart-warsaw.org,TRUE
+B755,Aquinas School at St Andrew's,,Lisa,Gutierrez,lgutierrez@aquinas.school,801 W 73rd Ave,Merrillville,IN,46410-3897,Lake,(219) 769-2049,(219) 769-8543,PK,08,http://www.theaquinasschool.com/,TRUE
+B760,Andrean High School,,Jaycob,Knazur,jknazur@andreanhs.com,5959 Broadway,Merrillville,IN,46410-2681,Lake,(219) 887-5281,(219) 981-5072,09,12,http://www.andreanhs.com,TRUE
+B771,Crown Point Christian School,,Megan,Donovan,mdonovan@crownpointchristian.org,10550 Park Place,St John,IN,46373,Lake,(219) 365-5694,(219) 365-5729,PK,08,http://www.crownpointchristian.org,TRUE
+B773,Northwest Adventist Christian Sch,,Susan,Rademacher,principal@nwadventist.us,10570 Randolph St,Crown Point,IN,46307,Lake,(219) 663-4472,(219) 663-4472,KG,08,,TRUE
+B775,Saint Michael School,,Michelle,Wacnik,mwacnik@smswarriors.org,16 W Wilhelm St,Schererville,IN,46375-1941,Lake,(219) 322-4531,(219) 322-1710,PK,08,http://www.stmichaelparish.life/,TRUE
+B780,Saint John Evangelist School,,Katherine,Fredericksen,kfredericksen@stjohnparish.org,9400 Wicker Ave,St John,IN,46373-9768,Lake,(219) 365-5451,(219) 365-6173,PK,08,http://www.sjeschool.org/,TRUE
+B806,Ambassador Christian Academy,,Danielle,Harris,Dharris@ambassadoracademy.net,900 W Ridge Rd,Gary,IN,46408,Lake,(219) 887-4473,(219) 887-1749,PK,08,http://www.ambassadoracademy.net/,TRUE
+B815,Calumet Christian School,,TaShena,Melton,tmelton@ccspatriots.org,826 N Harvey St,Griffith,IN,46319,Lake,(219) 922-8428,(219) 922-8706,PK,12,http://www.calumetchristian.org,TRUE
+B821,Indiana Horizon Academy,,Hira,Khan,hkhan@indianahorizon.org,9803 Colorado St Ste B,Crown Point,IN,46307,Lake,(219) 796-9490,(219) 796-9405,PK,08,http://www.indianahorizon.org/,TRUE
+B835,Saint Mary Catholic Comm School,,Tom,Ruiz,truiz@stmarycp.org,405 E Joliet St,Crown Point,IN,46307-4096,Lake,(219) 663-0676,(219) 663-1347,PK,08,http://www.stmarycp.org/school/,TRUE
+B850,Trinity Lutheran School,,Meredith,Bovin,mbovin@trinitycp.org,250 S Indiana Ave,Crown Point,IN,46307-4174,Lake,(219) 663-1578,(425) 663-1586,PK,08,http://www.trinitycp.org,TRUE
+B865,St Stanislaus School,,Angelica,Agosto,afoy@ststansec.org,4930 Indianapolis Blvd,East Chicago,IN,46312-3605,Lake,(219) 398-1316,(219) 398-9080,PK,08,http://ststansec.org/,TRUE
+B892,Ascension Lutheran Christian Schl,,Michael,Nicks,mnicks@ascensionlutheranschool.org,1150 W 49th Ave,Gary,IN,46408,Lake,(219) 887-5031,(000) 000-0000,KG,08,https://www.luminascension.org,TRUE
+B930,Saint Mary School,,Rebecca,Maskovich,rmaskovich@stmarygriffith.onmicrosoft.com,525 N Broad St,Griffith,IN,46319-2295,Lake,(219) 924-8633,(219) 922-2279,PK,08,http://www.smgriffith.org,TRUE
+B950,Saint Casimir School,,Matt,Chico,mchico@stcasschool.org,4329 Cameron Ave,Hammond,IN,46327-1358,Lake,(219) 932-2686,(219) 932-4458,PK,08,http://www.stcasschool.org,TRUE
+B951,Morning Star Academy,,Margaret,Feliciano,mjfeliciano@msaeducation.org,7350 Kennedy Ave,Hammond,IN,46323-2647,Lake,(219) 844-4470,(219) 246-4604,PK,08,http://www.mymorningstaracademy.org/,TRUE
+B960,Saint John Bosco School,,Nancy,Repay,nrepay@st-johnbosco.org,1231 171st Pl,Hammond,IN,46324-2316,Lake,(219) 845-6226,(219) 989-7946,PK,08,http://www.sjb.nwiweb.com,TRUE
+B965,Saint John The Baptist School,,Michelle,Ondas,mondas@stjohnbap.org,1844 Lincoln Ave,Whiting,IN,46394-1594,Lake,(219) 659-3042,(219) 473-7553,PK,08,http://www.mysjb.org,TRUE
+B970,Bishop Noll Institute,,Lorenza,Jara,lpastrick@bishopnoll.org,1519 Hoffman St,Hammond,IN,46327-1798,Lake,(219) 932-9058,(219) 853-1736,09,12,http://www.bishopnoll.org,TRUE
+C020,Highland Christian School,,Kyle,Weener,kweener@highlandchristian.org,3040 Ridge Rd,Highland,IN,46322-2099,Lake,(219) 838-0356,(219) 838-7817,KG,08,http://www.highlandchristian.org/,TRUE
+C025,Our Lady Of Grace School,,Mark,Topp,knights1@olgraceschool.org,3025 Highway Ave,Highland,IN,46322-1799,Lake,(219) 838-2901,(219) 972-6389,PK,08,http://www.olgraceschool.org,TRUE
+C050,Trinity Lutheran School,,Molly,Arroyo,marroyo.tls@trinityhobart.org,891 S Linda St,Hobart,IN,46342-5297,Lake,(219) 942-3147,(219) 942-6637,PK,08,http://www.trinityhobart.org/,TRUE
+C060,Saint Thomas More School,,Samantha,Hofferth-Francis,sfrancis@stm-school.com,8435 Calumet Ave,Munster,IN,46321-2595,Lake,(219) 836-9151,(219) 836-0982,PK,08,http://www.stm-school.com,TRUE
+C065,St Paul's Lutheran School,,William,Schooler,bschooler@munsterstpl.com,8601 Harrison Ave,Munster,IN,46321-2397,Lake,(219) 836-6270,(219) 836-3724,PK,08,http://www.stplmunster.com/,TRUE
+C105,Notre Dame Catholic School,,Natasha,Magnuson,nmagnuson@notredameparish.net,1000 Moore Rd,Michigan City,IN,46360-1887,LaPorte,(219) 872-6216,(219) 872-6216,PK,08,http://school.notredameparish.net/,TRUE
+C110,Queen Of All Saints School,,Kimberly,Gondeck,kgondeck@qas-school.org,1715 E Barker Ave,Michigan City,IN,46360-5393,LaPorte,(219) 872-4420,(219) 872-1943,PK,08,http://www.qas-school.org,TRUE
+C112,Door Prairie Adventist School,,Naara,Dominguez Ignot,nignot@indysda.org,1480 Boyd Blvd,LaPorte,IN,46350,LaPorte,(219) 362-6959,(219) 362-2269,PK,08,http://www.dpacs.org/,TRUE
+C120,Saint Stanislaus Kostka School,,Denise,Delaney,denise.delaney@saintstans.com,1506 Washington St,Michigan City,IN,46360-4326,LaPorte,(219) 872-2258,(219) 872-2295,PK,08,http://saintstans.com/,TRUE
+C125,Marquette Catholic High School,,Katherine,Collignon,Katie.Collignon@marquette-hs.org,306 W 10th St,Michigan City,IN,46360-4098,LaPorte,(219) 873-1325,(219) 873-1327,09,12,http://www.marquette-hs.org,TRUE
+C150,Saint John Lutheran School,,Julie,Berndt,julie.berndt@stjohns-laporte.com,111 Kingsbury Ave,LaPorte,IN,46350-5299,LaPorte,(219) 362-6692,(219) 362-4742,PK,08,https://www.stjohnslaporte.org,TRUE
+C160,Saint Vincent DePaul School,,Teresa,Underwood,underwoodt@svsbedford.org,923 18th St,Bedford,IN,47421,Lawrence,(812) 279-2540,(812) 276-4880,PK,08,http://www.svsbedford.org,TRUE
+C175,Indiana Christian Academy,Mr,Kevin,Plew,kevin.plew@indianachristianacademy.org,432 W 300 N,Anderson,IN,46012-1101,Madison,(765) 643-7884,(765) 683-4200,PK,12,http://indianachristianacademy.org,TRUE
+C190,Saint Mary School,,Rachel,Duckworth,rduckworth@stmaryalex.net,820 W Madison St,Alexandria,IN,46001-1520,Madison,(765) 724-4459,(765) 724-9711,PK,08,https://maryandjosephchurches.com/st-mary-school,TRUE
+C211,Holy Cross School,,Robert,Frey,rfrey@holycrossschool-anderson.org,304 E 11th St,Anderson,IN,46016,Madison,(765) 642-1848,(765) 642-1828,PK,08,http://www.holycrossschool-anderson.com/,TRUE
+C215,Cross Street Christian School,,Lisa,Rhodes,lrhodes@CrossSt.org,2318 W Cross St,Anderson,IN,46011-9550,Madison,(765) 649-4141,(765) 649-5953,PK,08,http://www.crossst.org/,TRUE
+C225,Liberty Christian School,,Adam,Freeman,adam.freeman@libertyonline.org,2323 Columbus Ave,Anderson,IN,46016-1696,Madison,(765) 644-7774,(765) 644-7779,07,12,http://www.libertyonline.org,TRUE
+C226,Liberty Christian Elementary,,Lisa,Huff,lisa.huff@libertyonline.org,2025 Hillcrest Dr,Anderson,IN,46012,Madison,(765) 644-7773,(765) 644-7778,PK,06,http://www.libertyonline.org,TRUE
+C250,Anderson Christian School,,Steven,Cash,scash@acs-soldiers.com,5401 South Madison Avenue,Anderson,IN,46013,Madison,(765) 649-0123,(765) 649-1464,PK,12,http://www.acs-soldiers.com,TRUE
+C257,Damar Academy,,Erin,Crick,erinc@damar.org,6067 Decatur Blvd,Indianapolis,IN,46241,Marion,(317) 856-5201,(317) 856-2333,KG,12,http://www.damar.org/services/damar-freeway-academy,FALSE
+C265,Nativity Catholic School,,Mary,Keiser,mbkeiser@nativityindy.org,3310 S Meadow Dr,Indianapolis,IN,46239-1293,Marion,(317) 357-1459,(317) 357-9175,PK,08,http://school.nativityindy.org/,TRUE
+C267,Holy Cross Lutheran School,,Karen,Geiger,kgeiger@hclsindy.com,8115 Oaklandon Rd,Indianapolis,IN,46236,Marion,(317) 826-1234,(317) 826-0622,KG,08,http://hclc.info/school/,TRUE
+C270,Lutheran High School,,Michael,Brandt,mbrandt@lhsi.org,5555 S Arlington Ave,Indianapolis,IN,46237-2366,Marion,(317) 787-5474,(317) 787-2794,09,12,http://www.lhsi.org/,TRUE
+C271,Curtis Wilson Primary School,,Heidi,Dowell,hdowell@cwspa.com,7850 S Emerson Ave,Indianapolis,IN,46237-9708,Marion,(317) 882-8636,(317) 882-8640,PK,06,http://www.cwpsa.com/,FALSE
+C275,Heritage Christian School,,Jesse,Burgess,jesse.burgess@heritagechristian.net,6401 E 75th St,Indianapolis,IN,46250-2799,Marion,(317) 849-3441,(317) 594-5863,PK,12,http://www.heritagechristian.net/,TRUE
+C280,Saint Lawrence School,,Andrew,Maxson,amaxson@saintlawrence.net,6950 E 46th St,Indianapolis,IN,46226-3795,Marion,(317) 543-4923,(317) 543-4929,PK,08,http://saintlawrence.net/school/,TRUE
+C281,Cornerstone Baptist Academy,,Tina,Scheidler,scheidlert@cbacademy.net,10701 E 56th St,Indianapolis,IN,46235,Marion,(317) 826-1160,(317) 723-8090,PK,12,http://cbacademy.net/academy/index.html,TRUE
+C282,Horizon Christian School,,Brandon,Grayson,bgrayson@horizonindy.org,7702 Indian Lake Rd,Indianapolis,IN,46236,Marion,(317) 823-4538,(317) 823-2396,PK,12,http://horizonindy.org/hcs/,TRUE
+C295,Saint Barnabas School,,Ryan,Schnarr,rschnarr@stbindy.org,8300 Rahke Rd,Indianapolis,IN,46217-4999,Marion,(317) 881-7422,(317) 887-8933,PK,08,http://school.stbindy.org/,TRUE
+C300,Saint Jude Elementary School,,Elizabeth,Meece,bmeece@sjsindy.org,5375 McFarland Rd,Indianapolis,IN,46227-7099,Marion,(317) 784-6828,(317) 780-7594,PK,08,http://www.sjsindy.org/,TRUE
+C305,Saint Mark School,,Jennifer,Kocher,jkocher@stmarkindy.org,541 E Edgewood Ave,Indianapolis,IN,46227-2097,Marion,(317) 786-4013,(317) 783-9574,PK,08,http://school.stmarkindy.org/,TRUE
+C310,Saint Roch School,,Amy,Wilson,awilson@strochindy.org,3603 S Meridian St,Indianapolis,IN,46217,Marion,(317) 784-9144,(317) 784-7051,PK,08,http://www.strochindy.org/,TRUE
+C315,Calvary Lutheran School,,Stephen,Rensner,rensner@thecalvaryschool.org,6111 Shelby St,Indianapolis,IN,46227-4879,Marion,(317) 783-2305,(317) 789-3039,PK,08,http://www.thecalvaryschool.org,TRUE
+C320,Roncalli High School,,Kevin,Banich,kbanich@roncalli.org,3300 Prague Rd,Indianapolis,IN,46227-7096,Marion,(317) 787-8277,(317) 788-4095,09,12,http://www.roncalli.org,TRUE
+C325,Suburban Christian School,,Joseph,Borders,jborders@scsindy.com,722 E County Line Rd,Indianapolis,IN,46227-9310,Marion,(317) 888-3366,(317) 884-4025,PK,12,http://www.scsindy.com,TRUE
+C360,Brebeuf Jesuit Preparatory School,,Greg,Vanslambrook,gvanslambrook@brebeuf.org,2801 W 86th St,Indianapolis,IN,46268-1925,Marion,(317) 524-7050,(317) 524-7144,09,12,http://www.brebeuf.org,TRUE
+C375,Traders Point Christian Schools,,James,Hough,jhough@tpcs.org,5770 Whitestown Parkway,Whitestown,IN,46075-9516,Boone,(317) 769-2450,(317) 769-2456,PK,12,http://www.tpcs.org,TRUE
+C390,Holy Spirit School,,Rita,Parsons,rparsons@holyspirit-indy.org,7241 E 10th St,Indianapolis,IN,46219-4991,Marion,(317) 352-1243,(317) 351-1822,PK,08,https://www.holyspirit-indy.org/school/,TRUE
+C395,Trinity Lutheran School,,Sara,Grein,sara.grein@trinityindy.org,8540 E 16th St,Indianapolis,IN,46219-2503,Marion,(317) 897-0243,(317) 897-5277,PK,08,http://www.trinityindy.org/school,TRUE
+C396,Burge Terrace Christian School,,Ann,Newton,anewton@btcsindy.org,9345 Brookville Rd,Indianapolis,IN,46239,Marion,(317) 862-5238,(317) 862-6130,PK,06,http://www.burgeterracechristianschool.org/,TRUE
+C400,Saint John Ev Lutheran School,,Jeffrey,Huntington,jhuntington@stjohnindy.org,6630 Southeastern Ave,Indianapolis,IN,46203-5898,Marion,(317) 352-9196,(317) 352-9740,PK,08,http://www.stjohnindy.org,TRUE
+C435,Saint Luke School,,Johnathan,Grismore,jgrismore@stluke.school,7650 N Illinois St,Indianapolis,IN,46260-3621,Marion,(317) 255-3912,(317) 254-3210,KG,08,https://school.stluke.org,TRUE
+C440,Saint Matthew School,,Cara,Swinefurth,cswinefurth@saintmatt.org,4100 E 56th St,Indianapolis,IN,46220-5504,Marion,(317) 251-3997,(317) 479-2381,PK,08,http://www.saintmatt.org/school/,TRUE
+C445,Saint Monica School,,Eric,Schommer,e.schommer@smsindy.org,6131 N Michigan Rd,Indianapolis,IN,46228-1201,Marion,(317) 255-7153,(317) 222-5911,PK,08,http://stmonicaindy.org/school/,TRUE
+C450,Saint Pius X School,,Keely,Beaudette,mrs_beaudette@stpiusxcatholicschool.org,7200 Sarto Dr,Indianapolis,IN,46240-3509,Marion,(317) 466-3361,(317) 466-3354,KG,08,http://www.spxparish.org,TRUE
+C455,Indianapolis Junior Academy,,Eunice,Barney,ebarney@indysda.org,Indianapolis,Indianapolis,IN,46220-2917,Marion,(317) 251-0560,(317) 251-6486,PK,08,http://www.ijacademy.org,TRUE
+C475,Hasten Hebrew Acad of Indianapolis,,Miriam,Gettinger,mgettinger@hhai.org,6602 Hoover Rd,Indianapolis,IN,46260-4119,Marion,(317) 251-1261,(317) 479-3123,PK,08,http://www.hhai.org,TRUE
+C495,Colonial Christian School,,Andrew,Fry,afry@ccsindy.org,8140 Union Chapel Rd,Indianapolis,IN,46240-2445,Marion,(317) 253-0649,(317) 254-2840,PK,12,http://www.ccsindy.org,TRUE
+C512,Our Shepherd Lutheran School,,Amy,Hedges,principal@ourshepherd.org,9201 E County Road 100 N,Avon,IN,46123-9008,Hendricks,(317) 271-9100,(317) 271-3084,PK,08,http://www.ourshepherd.org/school/,TRUE
+C513,Islamic Academy of Indianapolis,,Emaa,Mahariq,emaa@tawheed.school,711 South High School Road,Indianapolis,IN,46241,Marion,(317) 820-5777,(000) 000-0000,PK,08,,TRUE
+C514,Crosspointe Christian Academy,,Stephen,Carlson,scarlson@crosspointeindy.com,220 Country Club Rd,Indianapolis,IN,46234,Marion,(317) 271-1600,(317) 209-8227,PK,12,http://www.crosspointeacademy.com,TRUE
+C519,Chapel Hill Christian School,Ms,Candy,Greene,chapelhilleagles@comcast.net,1055 N Girls School Rd,Indianapolis,IN,46214,Marion,(317) 244-8491,(317) 244-8499,PK,12,http://www.chcsindy.com/,TRUE
+C527,Covenant Christian High School,,Andrew,Goodwin,andygoodwin@covenantchristian.org,7525 W 21st St,Indianapolis,IN,46214-2252,Marion,(317) 390-0202,(317) 390-6823,09,12,http://www.covenantchristian.org,TRUE
+C545,Holy Name Catholic School,,Amy,Wright,awright@holyname.cc,21 N 17th St,Beech Grove,IN,46107-1531,Marion,(317) 784-9078,(317) 788-3616,PK,08,http://school.holyname.cc,TRUE
+C561,Trinity Christian School,,Jeramie,Carroll,jeramie.carroll@tcssaints.org,440 St Peter St,Indianapolis,IN,46201-4054,Marion,(317) 631-3194,(317) 631-7230,KG,12,http://www.tcssaints.org/,TRUE
+C563,Shepherd Community Academy ,,Bethany,Morford,bethanym@shepherdcommunity.org,4107 E Washington St,Indianapolis,IN,46201,Marion,(317) 375-0203,(317) 375-0205,PK,05,https://www.shepherdcommunity.org/become-informed/academic-ministries/,TRUE
+C575,Central Christian Academy,,Sonna,Dumas,sdumas@ccachargers.org,2565 Villa Ave,Indianapolis,IN,46203-4499,Marion,(317) 788-1587,(317) 781-4758,KG,12,http://www.ccachargers.org/,TRUE
+C580,Calvary Christian School,,Katy,Collins,katy.collins@go2ccs.org,3639 S Keystone Ave,Indianapolis,IN,46227,Marion,(317) 789-8710,(317) 789-8718,KG,12,http://www.go2ccs.org/,TRUE
+C585,Christ The King School,,Edmund,Seib IV,eseib@cks-indy.org,5884 N Crittenden Ave,Indianapolis,IN,46220-2896,Marion,(317) 257-9366,(317) 475-6581,KG,08,http://www.cks-indy.org,TRUE
+C589,The Independence Academy,,Marisa,Gill,marisagill@iaindiana.org,7302 Woodland Drive,Indianapolis,IN,46278,Marion,(317) 926-0043,(317) 493-1460,03,12,http://www.iaindiana.org,TRUE
+C590,Holy Angels Catholic School,,Justin,Armitage,jarmitage@holyangelscatholicschool.org,2822 Dr M Luther King Jr St,Indianapolis,IN,46208-5098,Marion,(317) 926-5211,(317) 926-5219,PK,06,http://www.holyangelscatholicschool.org/,TRUE
+C600,Immaculate Heart of Mary School,,Christopher,Kolakovich,ckolakovich@ihmindy.org,317 E 57th St,Indianapolis,IN,46220-2517,Marion,(317) 255-5468,(317) 475-7379,KG,08,http://www.ihmindy.org ,TRUE
+C605,Our Lady Of Lourdes School,,Angela,Therber,atherber@ollindy.org,30 S Downey Ave,Indianapolis,IN,46219,Marion,(317) 357-3316,(317) 357-0980,PK,08,http://www.ollindy.org,TRUE
+C615,St Anthony Catholic School,,Madalyn,Schepers,mschepers@stanthonyindy.org,349 N Warman Ave,Indianapolis,IN,46222,Marion,(317) 636-3739,(317) 636-3740,PK,08,http://www.stanthonyindy.org/,TRUE
+C623,Providence Cristo Rey High School,,Leslie,Napora,lnapora@pcrhs.org,2717 S. East Street,Indianapolis,IN,46225,Marion,(317) 860-1000,(317) 860-1004,09,12,https://cristoreyindy.org,TRUE
+C625,Central Catholic School,,Tamara,Clouse,tclouse@centralcatholicindy.org,1155 E Cameron,Indianapolis,IN,46203-4243,Marion,(317) 783-7759,(317) 781-5964,PK,08,http://www.centralcatholicindy.org/,TRUE
+C628,MTI School of Knowledge,,Heba,Elshakmak,heba.elshakmak@isimti.org,4950 W 34th,Indianapolis,IN,46224,Marion,(317) 923-0328,(317) 923-1039,PK,12,http://www.isimti.org,TRUE
+C645,Saint Joan Of Arc School,,Nancy,Kmiecik,nkmiecik@sjoa.org,500 E 42nd St,Indianapolis,IN,46205-1897,Marion,(317) 283-1518,(317) 931-3380,PK,08,https://www.sjoa.org/school-home,TRUE
+C650,St Michael St Gabriel Archangels School,,Elizabeth,Ramos,lramos@indyarchangel.org,3352 W 30th St,Indianapolis,IN,46222-2139,Marion,(317) 926-0516,(317) 921-3280,PK,08,http://www.stmichaelindy.org,TRUE
+C655,Saint Philip Neri School,,Kelly,England,kengland@stphilipindy.org,545 Eastern Ave,Indianapolis,IN,46201-2115,Marion,(317) 636-0134,(317) 636-3231,PK,08,http://www.stphilipindy.org/,TRUE
+C665,Saint Simon The Apostle School,,Cathlene,Darragh,cdarragh@saintsimon.org,8155 Oaklandon Rd,Indianapolis,IN,46236,Marion,(317) 826-6000,(317) 826-6020,PK,08,http://www.saintsimon.org/,TRUE
+C670,St Therese Little Flower School,,Kevin,Gawrys,kgawrys@littleflowerparish.org,1401 N Bosart St,Indianapolis,IN,46201-1715,Marion,(317) 353-2282,(317) 322-7702,PK,08,http://www.littleflowerparish.org/school,TRUE
+C675,Saint Thomas Aquinas School,,Bethany,Borland,bborland@staindy.org,4600 N Illinois St,Indianapolis,IN,46208-3522,Marion,(317) 255-6244,(317) 255-6106,KG,08,http://www.staindy.org,TRUE
+C677,International Sch of IN HS (9-12),,Richard,Bruford,rbruford@isind.org,4330 N Michigan Rd,Indianapolis,IN,46208,Marion,(317) 923-1951,(317) 923-1910,09,12,http://www.isind.org,TRUE
+C678,International Sch of IN (6-8),,Richard,Bruford,rbruford@isind.org,4330 N Michigan Rd,Indianapolis,IN,46208,Marion,(317) 923-1951,(317) 923-1910,06,08,http://www.isind.org,TRUE
+C679,Indianapolis Southside Christian ,,Amber,Bower,mrs.bower2009@gmail.com,4801 Shelbyville Rd,Indianapolis,IN,46237,Marion,(317) 786-7002,(000) 000-0000,01,08,https://www.indy-isca.org/,TRUE
+C680,Emmaus Lutheran School,,Julie,Calvert-Watts,jwatts@emmauslutheranschool.org,1224 Laurel,Indianapolis,IN,46203-1908,Marion,(317) 632-1486,(317) 632-2620,PK,08,,TRUE
+C690,Capitol City SDA Church School,Mrs,Marjorie,Morgan-McField,mmcfield@lrcsda.com,2143 Boulevard Pl,Indianapolis,IN,46202-1212,Marion,(317) 602-3524,(317) 602-3529,PK,08,http://www.capitolcitysdaschool.com,TRUE
+C699,TP Schools,,Laquila,Dunn,ldunn@tpschoolsindy.com,4501 N Post Rd,Indianapolis,IN,46226,Marion,(317) 898-4420,(317) 541-4700,PK,08,http://www.tpschoolsindy.com/,TRUE
+C700,Cathedral High School,,Sheila,Roberts,sroberts@gocathedral.com,5225 E 56th St,Indianapolis,IN,46226-1403,Marion,(317) 542-1481,(317) 543-5050,09,12,http://www.gocathedral.com/,TRUE
+C705,Bishop Chatard High School,,John,Hasty,jhasty@bishopchatard.org,5885 N Crittenden Ave,Indianapolis,IN,46220-2840,Marion,(317) 251-1451,(317) 251-3648,09,12,http://www.bishopchatard.org,TRUE
+C710,Scecina Memorial High School,,David,Dellacca,ddellacca@scecina.org,5000 Nowland Ave,Indianapolis,IN,46201-1836,Marion,(317) 356-6377,(317) 322-4287,09,12,http://www.scecina.org,TRUE
+C715,Cardinal Ritter High School,,Kari,Jost,kjost@cardinalritter.org,3360 W 30th St,Indianapolis,IN,46222-2139,Marion,(317) 924-4333,(317) 927-7822,07,12,https://www.cardinalritter.org/,TRUE
+C773,The Oaks Academy - Fall Creek,,Bruce,Crawford,bcrawford@theoaksacademy.org,2301 N Park Ave,Indianapolis,IN,46205,Marion,(317) 931-3043,(317) 931-3050,KG,05,http://www.theoaksacademy.org,TRUE
+C774,The Oaks Academy - Middle School,,Laura,Grammer,lgrammer@theoaksacademy.org,1301 East 16th Street,Indianapolis,IN,46219,Marion,(317) 931-3043,(317) 931-3050,PK,08,http://www.theoaksacademy.org,TRUE
+C791,School for Community Learning,,Patricia,Wildhack,pwildhack@sclk-8.org,3535 Kessler Blvd. North Dr.,Indianapolis,IN,46222,Marion,(317) 926-5812,(866) 600-1929,PK,08,http://www.schoolforcommunitylearning.org,TRUE
+C795,Saint Christopher School,,Karen,King,kking@stchrisindy.org,5335 W 16th St,Indianapolis,IN,46224-6402,Marion,(317) 241-6314,(317) 244-6678,PK,06,http://www.stchristopherschool.net/,TRUE
+C825,Saint Paul Lutheran School,,Nathan,Miller,nmiller@stpaulsbremen.org,605 S Center,Bremen,IN,46506-1701,Marshall,(574) 546-2790,(574) 546-3242,PK,08,http://www.stpaulsbremen.org,TRUE
+C850,Grace Baptist Christian School,Mr,Matthew,Elliot,melliott@gbcplymouth.org,1830 N Michigan St,Plymouth,IN,46563-1008,Marshall,(574) 936-3448,(574) 000-0000,PK,12,http://gbcplymouth.org/,TRUE
+C855,Saint Michael School,,Amy,Weidner,aweidner@diofwsb.org,612 N Center St,Plymouth,IN,46563-1506,Marshall,(574) 936-4329,(574) 936-1151,PK,08,http://www.saintmichaelschool.org,TRUE
+C900,Saint Charles Borromeo School,,Victoria,Arther,varther@stcharlesbloomington.org,2224 E 3rd St,Bloomington,IN,47401-5399,Monroe,(812) 336-5853,(812) 349-0300,PK,08,http://school.stcharlesbloomington.org/,TRUE
+C905,Adventist Christian Elementary,,Raian,Villacruel,rvillacruel@indysda.org,2230 N Martha St,Bloomington,IN,47408-1029,Monroe,(317) 260-8588,(812) 000-0000,KG,08,http://www.adventistchristianelementary.com/,TRUE
+C910,Covenant Christian School,,Shelly,Hunt,shelly@ccsbloomington.org,4000 E Moores Crk Rd,Bloomington,IN,47401-9610,Monroe,(812) 332-2337,(812) 000-0000,PK,12,http://ccsbloomington.org/,TRUE
+C927,Lighthouse Christian Academy,,Timothy,Day,timothy.day@mylca.net,1201 W That Rd,Bloomington,IN,47403,Monroe,(812) 824-2000,(812) 824-2017,PK,12,https://www.mylca.info/,TRUE
+C933,Clear Creek Christian School,,Scott,Wallace,swallace@cccschool.com,530 Church Lane,Bloomington,IN,47403,Monroe,(812) 824-2567,(812) 824-6032,KG,06,http://cccschool.com/,TRUE
+C940,Tabernacle Christian School,,Kenny,Roll,kroll@mbttcm.org,2189 Burton Ln,Martinsville,IN,46151-3013,Morgan,(765) 349-5950,(765) 342-0502,PK,12,http://www.mbttcm.org,TRUE
+C954,Greenwood Christian Academy High School,,Helena,Randall,arandall@gcak12.org,1495 W Main St,Greenwood,IN,46142,Johnson,(317) 215-5300,,09,12, ,TRUE
+C965,Mooresville Christian Academy,,Bruce,Peters,bpeters@mooresvillechristian.org,4271 E SR 144,Mooresville,IN,46158-0637,Morgan,(317) 831-0799,(317) 831-0799,PK,12,http://www.mooresvillechristian.org,TRUE
+C966,Greenwood Christian Academy,,Jordan,Johnson,jjohnson@gcak12.org,835 W Worthsville Rd,Greenwood,IN,46143,Johnson,(317) 215-5300,(317) 535-1070,PK,08,http://www.gcak12.org/,TRUE
+C980,Saint Mary Elementary School,,Damian,Schmitt,dschmitt@diofwsb.org,232 N Main St Box 109,Avilla,IN,46710-0109,Noble,(260) 897-3481,(260) 897-3706,PK,08,http://www.stmaryavilla.org,TRUE
+C985,St John Lutheran School,,Tim,Walz,twalz@stjohneagles.org,301 S Oak St,Kendallville,IN,46755-1758,Noble,(260) 347-2444,(260) 349-2854,PK,08,http://www.stjohneagles.org,TRUE
+D050,Saint Patrick School,,Richard,Rupcich,rrupcich@stpatsparish.org,640 N Calumet Rd,Chesterton,IN,46304-1502,Porter,(219) 926-1707,(219) 921-1922,PK,08,http://www.stpatsparish.org,TRUE
+D056,Shults-Lewis Child & Family Srvs,,Vickie,Terhune,vickieterhune@shultslewis.org,150 E 325 S,Valparaiso,IN,46384-0471,Porter,(219) 464-7669,(219) 464-7828,07,12,http://www.shultslewis.org,FALSE
+D058,Midwest Academy MCYF,Mrs,Roberta,Woods,roberta.woods@uhsinc.com,1012 W Indiana St,Kouts,IN,46347,Porter,(219) 766-2999,(219) 766-2704,KG,12,http://www.midwest-center.com/academy-program/,FALSE
+D063,Emmanuel Baptist Academy,Mr,Charles,Lail,clail.ebavalpo@gmail.com,760 McCool Road,Valparaiso,IN,46385,Porter,(219) 759-3317,(219) 759-2467,PK,12,,TRUE
+D065,Nativity of Our Savior School,,Sally,Skowronski,principal@nativityofoursavior.net,2929 Willowcreek Rd,Portage,IN,46368-3590,Porter,(219) 763-2400,(219) 764-3225,PK,08,http://www.nativityofoursavior.net,TRUE
+D073,Victory Christian Academy,,Tiffany,Jett,tjett@vcacademy.info,360 N 325 E,Valparaiso,IN,46383,Porter,(219) 548-8803,(219) 510-0155,KG,12,http://www.vcacademy.info,TRUE
+D080,Portage Christian School,,Sharon,Picon-Santiago,ssantiago@portagechristian.net,3040 Arlene St,Portage,IN,46368-3948,Porter,(219) 762-8962,(219) 763-9931,PK,12,http://www.portagechristianschool.org,TRUE
+D085,Saint Paul Catholic School,,Lisa,Hughes,lhughes@stpaulvalpo.org,1755 W Harrison Blvd,Valparaiso,IN,46385-7018,Porter,(219) 462-3374,(219) 477-1763,PK,08,http://www.stpaulvalpo.org,TRUE
+D090,Immanuel Lutheran School,,Joshua,Bachman,jbachman@immanuelvalpo.org,1700 N Monticello,Valparaiso,IN,46383,Porter,(219) 462-8207,(219) 531-2238,KG,08,http://www.immanuelvalpo.org,TRUE
+D095,St Matthew School,,Christan,Shockley,cshockley@evdio.org,401 Mulberry St,Mount Vernon,IN,47620-1937,Posey,(812) 838-3621,(812) 838-6971,PK,05,http://www.stmatthewmtvernon.org,TRUE
+D100,St Philip School,,Kellie,Kelsey,kkelsey@evdio.org,3420 St Philip Rd S,Mount Vernon,IN,47620-9697,Posey,(812) 985-2447,(812) 985-2457,PK,08,http://www.stphilipschool.net,TRUE
+D105,Saint Wendel School,,Hallie,Scheu,hscheu@evdio.org,4725 St Wendel-Cynthiana Rd,Wadesville,IN,47638-9610,Posey,(812) 963-3958,(812) 963-3061,PK,08,http://www.saintwendelschool.org,TRUE
+D130,Saint Louis School,,Patricia,Mauer,pmauer@st.louisschool.org,17 St Louis Pl,Batesville,IN,47006-1397,Ripley,(812) 934-3310,(812) 934-6202,KG,08,http://www.st.louisschool.org/,TRUE
+D135,Oldenburg Academy,,Angela,Parmer,aparmer@oldenburgacademy.org,One Twister Cir,Oldenburg,IN,47036-9703,Franklin,(812) 934-4440,(812) 934-4838,09,12,http://www.oldenburgacademy.org/,TRUE
+D140,Saint Mary Elementary School,,Pamela,Wells,pwells@stmaryrush.org,226 E 5th St,Rushville,IN,46173-1691,Rush,(765) 932-3639,(765) 938-1322,PK,06,http://stmaryrush.org/home,TRUE
+D158,North Liberty Christian School,,Kelly,Tutino,ktutino@nlchristianschool.net,65225 SR 23,North Liberty,IN,46554-9404,St Joseph,(574) 203-0282,(574) 656-3374,KG,08,http://www.nlchristianschool.org/,TRUE
+D164,St Pius X Catholic School,,Christopher,Milliron,cmilliron@diofwsb.org,52553 Fir Rd,Granger,IN,46530,St Joseph,(574) 272-4935,(574) 855-5400,PK,08,http://www.stpiuscatholicschool.net/pages/St__Pius__X_Catholic_School,TRUE
+D165,Marian High School,,Mark,Kirzeder,mkirzeder@diofwsb.org,1311 S Logan St,Mishawaka,IN,46544-4798,St Joseph,(574) 259-5257,(574) 258-7668,09,12,http://www.marianhs.org,TRUE
+D177,Mishawaka Catholic School,,Karen,Salvador,ksalvador@diofwsb.org,230 South Spring Street,Mishawaka,IN,46544-4930,St Joseph,(574) 255-5554,(574) 255-6381,PK,08,http://www.mcmish.org,TRUE
+D189,Covenant Christian School,,Alison,Noakes,anoakes@covenantchristian.school,54790 Fir Rd,Mishawaka,IN,46545-1716,St Joseph,(574) 255-5972,(574) 255-5196,PK,08,http://www.covenantchristian.us/,TRUE
+D195,South Bend Hebrew Day School,,Chaya,Tabor,ctabor@sbhds.org,19685 Johnson  Rd,South Bend,IN,46614,St Joseph,(574) 255-3351,(574) 255-7553,PK,08,https://www.sbhds.org/,TRUE
+D196,Bais Yaakov High School of Indiana,,Rivky,Lerman,rlerman@byhsi.org,19685 Johnson Rd.,South Bend,IN,46614,St Joseph,(574) 257-0689,(574) 255-7553,09,12,,TRUE
+D198,Queen of Peace School,,Kimberly,Obringer,kobringer@diofwsb.org,4508 Vistula Rd,Mishawaka,IN,46544,St Joseph,(574) 255-0392,(574) 255-1029,PK,08,http://www.queenofpeace.cc/63,TRUE
+D217,Trinity School At Greenlawn,,John,Lee,jlee@trinityschools.org,107 S Greenlawn Ave,South Bend,IN,46617-3430,St Joseph,(574) 287-5590,(574) 236-6628,06,12,http://www.trinityschools.org/greenlawn/,TRUE
+D225,Saint Joseph High School,,John,Kennedy,jkennedy@diofwsb.org,453 N Notre Dame Ave,South Bend,IN,46617,St Joseph,(574) 233-6137,(574) 472-1245,09,12,http://www.saintjoehigh.com,TRUE
+D230,Christ The King School,,Lindsay,Jeffress,ljeffress@diofwsb.org,52473 SR 933,South Bend,IN,46637-3894,St Joseph,(574) 272-3922,(574) 273-6707,KG,08,https://school.christthekingonline.com/,TRUE
+D235,Corpus Christi School,,Mattie,Willerton,mwillerton@diofwsb.org,2817 Corpus Christi Dr,South Bend,IN,46628-3429,St Joseph,(574) 272-9868,(574) 272-9894,PK,08,http://www.corpuschristisb.org/,TRUE
+D240,Holy Cross School,,Anne,Borjas,ABorjas@diofwsb.org,1020 N Wilber St,South Bend,IN,46628-2695,St Joseph,(574) 234-3422,(574) 237-6725,PK,08,http://www.holycrosscrusaders.org,TRUE
+D245,Holy Family School,,Brittany,Korpal,bkorpal@diofwsb.org,56407 Mayflower Rd,South Bend,IN,46619-1599,St Joseph,(574) 289-7375,(574) 289-7386,PK,08,http://holyfamilysouthbend.org/,TRUE
+D249,New Vision Christian Academy,,Ivy,Butler,ivybutler@newvisionchristianacademy.org,Post Office Box 1592,South Bend,IN,46634-1592,St Joseph,(574) 257-0628,(574) 257-8238,KG,12,,TRUE
+D250,Our Lady Of Hungary School,,Julie,Lauck,jlauck@diofwsb.org,735 W Calvert St,South Bend,IN,46613-1944,St Joseph,(574) 289-3272,(574) 289-3272,PK,08,http://www.ourladyofhungary.com/,TRUE
+D255,Saint Adalbert School,,Jennifer,Crain,JCrain@diofwsb.org,519 S Olive St,South Bend,IN,46619-3307,St Joseph,(574) 288-6645,(574) 251-2788,PK,08,http://www.stadalbertparish.org/,TRUE
+D260,Saint Anthony De Padua School,,Karen,Bogol,kbogol@diofwsb.org,2310 E Jefferson,South Bend,IN,46615-2610,St Joseph,(574) 233-7169,(574) 233-7290,PK,08,http://www.stasb.org,TRUE
+D265,Saint John The Baptist School,,Shannon,Jones,sjones@diofwsb.org,3616 St Johns Way,South Bend,IN,46628-1399,St Joseph,(574) 232-9849,(574) 232-9855,PK,08,http://www.stjohnsb.com/school/,TRUE
+D270,Saint Joseph School,,Melissa,Green,mgreen@diofwsb.org,216 N Hill St,South Bend,IN,46617-2720,St Joseph,(574) 234-0451,(574) 234-0524,PK,08,http://www.stjosephgradeschool.com,TRUE
+D275,Saint Jude Catholic School,,Ana Maria,Lewis,amlewis@diofwsb.org,19657 Hildebrand,South Bend,IN,46614-5522,St Joseph,(574) 291-3820,(574) 299-3051,PK,08,http://www.stjudeschool.net,TRUE
+D281,Yeshiva of South Bend,,Hadassah,Silver,hsilver@ygosb.com,3207 S High,South Bend,IN,46614-1953,St Joseph,(574) 291-4239,(574) 291-9490,09,12,,TRUE
+D285,Saint Matthew Cathedral School,,Sister Gianna Marie,Webber,sistergiannamarie@diofwsb.org,1015 E Dayton,South Bend,IN,46613-2809,St Joseph,(574) 289-4535,(574) 289-4539,KG,08,http://www.stmatthewcathedralschool.com/,TRUE
+D300,South Bend Jr Academy School,,Gladys,James,gjames@indysda.org,1910 Altgeld St,South Bend,IN,46614-1606,St Joseph,(574) 287-3713,(574) 287-3713,KG,08,http://www.oursbja.com/,TRUE
+D305,Community Baptist Christian School,,Matt,Tracy,mtracy@communitybaptist.com,5715 Miami,South Bend,IN,46614-6138,St Joseph,(574) 291-3620,(574) 291-3648,PK,12,http://cbcougars.com/,TRUE
+D310,Granger Christian School,,Kelly,Glisson,kglisson@grangerchristian.org,52025 Gumwood Rd,Granger,IN,46530-7099,St Joseph,(574) 272-5815,(574) 968-2664,PK,12,http://www.grangerchristian.org,TRUE
+D315,"Michiana Christian Academy, Inc.",,Pamela,Britt,pbritt@gomca.org,2730 S Ironwood Dr,South Bend,IN,46614,St Joseph,(574) 288-0234,(574) 472-2917,KG,08,http://gomca.org/#elevating-education,TRUE
+D317,Resurrection Lutheran Academy,,Michelle,Megyese,mmegyese@rlasouthbend.com,6840 Nimtz Pkwy,South Bend,IN,46628,St Joseph,(574) 272-2200,(574) 271-1051,PK,08,http://www.rlasouthbend.com,TRUE
+D329,Grace Christian Academy Inc,,Ken,Bracey Jr,kbracey@gcacademy.net,1525 N Gardner St ,Scottsburg,IN,47170,Scott,(812) 752-5491,(812) 379-8072,PK,12,,TRUE
+D335,Saint Joseph School,,Stephen,Hoffman,shoffman@sjsshelbyville.org,127 E Broadway,Shelbyville,IN,46176-1441,Shelby,(317) 398-4202,(317) 398-0270,PK,05,http://www.sjsshelbyville.org,TRUE
+D370,St Bernard Catholic School,,Christopher,Nowak,rnowak@evdio.org,207 N 6th Street,Rockport,IN,47635-1427,Spencer,(812) 649-2501,(812) 649-4176,PK,08,http://stbernardschool.info/catholic-school,TRUE
+D375,Saint Peter Lutheran School,,Rhonda,Reimers,reimers@stpeternorthjudson.org,810 W Talmer,North Judson,IN,46366-1348,Starke,(574) 896-5933,(574) 896-2082,PK,08,http://www.stpeternorthjudson.org/,TRUE
+D415,Central Catholic Jr-Sr High School,,Daryl,Beck,dbeck@lcss.org,2410 S 9th St,Lafayette,IN,47909-2499,Tippecanoe,(765) 474-2496,(765) 474-8752,07,12,http://cc.lcss.org/,TRUE
+D420,Saint Boniface School,,Marybeth,Fabian,mbfabian@lcss.org,813 North St,Lafayette,IN,47901-1161,Tippecanoe,(765) 742-7913,(765) 423-4988,04,06,http://stbon.lcss.org/,TRUE
+D425,Saint Lawrence Elementary School,,Pamela,Myers,myers@lcss.org,1902 Meharry St,Lafayette,IN,47904-1498,Tippecanoe,(765) 742-4450,(765) 742-4450,PK,06,http://stlaw.lcss.org/,TRUE
+D430,Saint Mary Cathedral School,,Katie,Christopher,kchristopher@lcss.org,1200 South St,Lafayette,IN,47901-1577,Tippecanoe,(765) 742-6302,(765) 742-7060,PK,03,http://stmar.lcss.org/,TRUE
+D435,Saint James Lutheran School,,Peter,Lucht,principal@stjameslaf.org,615 N 8th St,Lafayette,IN,47901-1008,Tippecanoe,(765) 742-6464,(765) 742-4642,PK,08,http://www.stjameslaf.org/,TRUE
+D440,Lafayette Christian School,,Trevor,Zonnefeld,tzonnefeld@lafayettechristian.org,525 North 26th Street,Lafayette,IN,47904-2842,Tippecanoe,(765) 447-3052,(765) 448-1850,PK,08,http://www.lafayettechristian.org,TRUE
+D451,T. C. Harris School,,Suzann,Ware,suzann.ware@tcharris.com,3700 Rome Dr,Lafayette,IN,47905,Tippecanoe,(765) 448-4220,(765) 448-4217,KG,12,http://www.tcharrisschool.com/,FALSE
+D452,Faith Christian School,,Nicole,Hume,nhume@faithlafayette.org,5526 SR 26 E,Lafayette,IN,47905,Tippecanoe,(765) 447-2727,(765) 449-3737,KG,12,http://www.faithlafayette.org/school,TRUE
+D485,Evansville Christian School,,Brooke,West,brookewest@evansvillechristian.org,25 S Cullen Avenue,Evansville,IN,47715,Vanderburgh,(812) 477-7777,(812) 469-0291,07,08,http://evansvillechristian.org,TRUE
+D489,Evansville Christian Sch Newburgh,,Brooke,West,brookewest@evansvillechristian.org,10644 Lincoln Avenue,Newburgh,IN,47630,Warrick,(812) 477-7777,(000) 000-0000,PK,12,https://evansvillechristian.org/,TRUE
+D525,Evansville Day School,,Holly,Ziemer,hziemer@evansvilledayschool.org,3400 N Green River Rd,Evansville,IN,47715-1350,Vanderburgh,(812) 476-3039,(812) 476-4061,PK,12,http://www.evansvilledayschool.org,TRUE
+D530,Mater Dei High School,,Darin,Knight,dknight@evdio.org,1300 Harmony Way,Evansville,IN,47720-6148,Vanderburgh,(812) 426-2258,(812) 421-5717,09,12,http://www.materdeiwildcats.com,TRUE
+D535,Reitz Memorial High School,,Aaron,Schmitt,aaronschmitt@evdio.org,1500 Lincoln Ave,Evansville,IN,47714-1520,Vanderburgh,(812) 476-4973,(812) 474-2942,09,12,http://www.reitzmemorial.org,TRUE
+D545,Annuc Cthlc Sch @ Christ the King,,Matthew,Moore,mmoore@evdio.org,3101 Bayard Park Dr,Evansville,IN,47714-2698,Vanderburgh,(812) 476-1792,(812) 475-6804,PK,08,http://www.annunciationevv.org,TRUE
+D550,Corpus Christi School,,Martha,Craig,mcraig@evdio.org,5530 Hogue Rd,Evansville,IN,47712-3298,Vanderburgh,(812) 422-1208,(812) 422-1243,PK,08,http://www.corpuschristievansville.org,TRUE
+D555,Good Shepherd School,,Kristen,Girten,kgirten@evdio.org,2301 N Stockwell Rd,Evansville,IN,47715-1849,Vanderburgh,(812) 476-4477,(812) 476-4495,PK,08,http://www.gsparish.org,TRUE
+D560,Holy Redeemer School,,Andrea,Dickel,adickel@evdio.org,918 W Mill Rd,Evansville,IN,47710-3932,Vanderburgh,(812) 422-3688,(812) 424-7166,PK,08,http://www.holyredeemercatholicschool.com/,TRUE
+D565,Holy Rosary School,,Joan,Fredrich,jfredrich@evdio.org,1303 S Green River Rd,Evansville,IN,47715-5696,Vanderburgh,(812) 477-2271,(812) 471-7230,PK,08,http://holyrosaryrams.org,TRUE
+D570,Annunciation Cthlc at Holy Spirit,,David,Memmer,dmemmer@evdio.org,1760 S Lodge Ave,Evansville,IN,47714-3597,Vanderburgh,(812) 477-9082,(812) 469-6636,PK,08,http://www.AnnunciationAngels.org,TRUE
+D580,Westside Catholic School,,Mary,Stewart,cstewart@evdio.org,1620 Glendale Ave,Evansville,IN,47712-5626,Vanderburgh,(812) 423-9115,(812) 423-1953,PK,08,http://www.westsidecatholic.org,TRUE
+D590,St Benedict Cathedral School,,Laurie,Schopmeyer,lschopmeyer@evdio.org,530 S Harlan Ave,Evansville,IN,47714-1572,Vanderburgh,(812) 425-4596,(812) 463-5206,PK,08,https://www.saintbenedictcathedral.org/school/,TRUE
+D605,Saint Joseph School,,Kelsey,Meier,kmeier@evdio.org,6130 W St Joe Rd,Evansville,IN,47720-7835,Vanderburgh,(812) 963-3335,(812) 963-3335,PK,08,http://www.stjoeco.org,TRUE
+D610,Resurrection School,,Theresa,Berendes,tberendes@evdio.org,5301 New Harmony Rd,Evansville,IN,47720-1774,Vanderburgh,(812) 963-6148,(812) 963-1141,PK,08,http://resurrectionweb.org,TRUE
+D625,Evansville Lutheran School,,Logan,Waggy,lwaggy@one.evansvillelutheranschool.com,111 E Virginia Street,Evansville,IN,47711,Vanderburgh,(812) 424-7252,(812) 424-7340,KG,08,http://www.evansvillelutheranschool.com,TRUE
+D720,Saint Patrick School,,Corinne,Cuffle,ccuffle@saintpat.org,449 S 19th St,Terre Haute,IN,47803-2199,Vigo,(812) 232-2157,(812) 478-9384,PK,08,http://saintpat.org/deanery_school/,TRUE
+D725,Holy Cross School,,Ryan,Cuffman,ryan.cuffman@gibault.org,6401 S US Hwy 41,Terre Haute,IN,47802-0316,Vigo,(812) 298-3077,(812) 299-0118,KG,12,http://www.gibault.org/,FALSE
+D805,Saint Bernard Elementary School,,Abigail,Stanley,astanley@diofwsb.org,191 N Cass St,Wabash,IN,46992-2439,Wabash,(260) 563-5746,(260) 563-4898,PK,06,http://www.stbernardcatholicschool.org/,TRUE
+D815,Saint John The Baptist School,,Elizabeth,Flatt,eflatt@evdio.org,725 Frame Rd,Newburgh,IN,47630-1606,Warrick,(812) 490-2000,(812) 490-2020,PK,08,http://www.sjbschoolnewburgh.org/,TRUE
+D840,Seton Catholic Elementary,,Jane,Brack,jbrack@setonschools.org,801 W Main St,Richmond,IN,47374-4075,Wayne,(765) 962-4877,(765) 962-5381,PK,06,http://setonschools.org/,TRUE
+D842,Seton Catholic High School,,Jane,Brack,jbrack@setonschools.org,233 S 5th St,Richmond,IN,47374,Wayne,(765) 965-6956,(765) 935-9930,07,12,http://setonschools.org/,TRUE
+D845,Richmond Adventist Elementary School,,Elvie,Davis,principal@richmondsdaelementaryschool.com,4358 US 35 North,Richmond,IN,47374,Wayne,(765) 935-1033,(765) 000-0000,01,08,,TRUE
+D862,Community Christian School,,Tiffani,Pentecost,tpentecost@ccsrichmond.com,500 Elks Rd ,Richmond,IN,47375,Wayne,(765) 935-3215,(765) 598-5152,PK,08,http://www.ccsrichmond.com/,TRUE
+D875,Kingdom Academy of Bluffton Inc,,Quinn,Fiechter,quinn.fiechter@kaofbluffton.com,225 Ferguson Park Ct,Bluffton,IN,46714,Wells,(260) 824-5590,(260) 000-0000,KG,12,http://kingdomacademy.us/,TRUE
+D907,T.R.O.Y. Center,,Cindy,Slavich,cindy@troyalternativeschool.com,1911 E Business 30,Columbia City,IN,46725-9153,Whitley,(260) 248-8787,(260) 248-8788,06,12,http://troyalternativeschool.com/,TRUE
+D912,Al Haqq Foundation Academy ,,Muhammad,Ndiaye,mkndiaye@alhaqq.onmicrosoft.com,5526 Georgetown Road,Indianapolis,IN,46254,Marion,(317) 929-1700,(000) 000-0000,PK,08,,TRUE
+D913,Israel School of Excellence ,,La Wanda,Hurst,lhurst@isoe7.org,7201 W 25th Ave,Gary,IN,46406,Lake,(219) 979-2026,(000) 000-0000,KG,05,,TRUE
+D914,International Leadership Schools,,Abdulwahab,Abashaar,abashaar@isoni.org,6413 N Clinton St,Fort Wayne,IN,46825,Allen,(260) 483-9911,(000) 000-0000,KG,11,,TRUE
+D915,Israel School of Excellence Prep,,La Wanda,Hurst,lhurst@isoe7.org,6525 Kentucky Ave,Hammond,IN,46323,Lake,(219) 979-2026,,06,12, ,TRUE
+D918,Alyssum Montessori School,,Suzanne,Ulmer,suzy@alyssummontessori.org,916 S Calhoun,Fort Wayne,IN,46802,Allen,(260) 564-4540,(000) 000-0000,PK,06,http://alyssummontessori.org/,TRUE
+D923,Midwest Academy MCYF PRTF,Mrs,Roberta,Woods,roberta.woods@uhsinc.com,1012 West Indiana Street,Kouts,IN,46347,Porter,(219) 766-2999,(219) 766-2704,KG,12,http://www.midwest-center.com/academy-program/,FALSE
+D924,Columbus Behavioral Center PRTF,Mr,Steven,Klei,Steven.Klei@uhsinc.com,2223 Poshard Drive,Columbus,IN,47203,Bartholomew,(812) 376-1711,(000) 000-0000,KG,12,,FALSE
+D926,Columbus Behavioral Center,Mr,Steven,Klei,Steven.Klei@uhsinc.com,2223 Poshard Drive,Columbus,IN,47203,Bartholomew,(812) 376-1711,(000) 000-0000,KG,12,,FALSE
+D927,Holy Cross PRTF,,Ashlee,Long,ashlee.long@gibault.org,6401 S US Hwy 41,Terre Haute,IN,47802,Vigo,(812) 298-3077,(812) 299-0118,KG,12,http://www.gibault.org/,FALSE
+D928,Crossroad Academy PRTF,,David,Mullins,dmullins@crossroad-fwch.org,1825 Beacon St,Fort Wayne,IN,46805,Allen,(260) 484-4153,(260) 496-5994,KG,12,,FALSE
+D929,Impact Academy @ Resource PRTF,,Staci,Hovermale,staci.hovermale@resourcetreatmentcenter.com,1404 S State Ave,Indianapolis,IN,46203,Marion,(317) 783-4003,(000) 000-0000,06,12,,FALSE
+D931,Impact Academy @ Resource,,Staci,Hovermale,staci.hovermale@resourcetreatmentcenter.com,1404 S State Ave,Indianapolis,IN,46203,Marion,(317) 783-4003,(000) 000-0000,06,12,,FALSE
+D932,Lutherwood Academy,,Julie,Handschy,jhandsch@ecommunity.com,1525 N Ritter Ave,Indianapolis,IN,46219,Marion,(317) 803-8476,(000) 000-0000,KG,12,,FALSE
